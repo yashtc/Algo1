@@ -1,0 +1,8 @@
+Algorithms: Design and Analysis, Part 1
+Course offered on coursera.org taught by Prof. Tim Roughgarden.
+Start date: Monday, 4th Feb 2013
+End date: Sunday: 24th Mar 2013
+
+Six problem sets (one for each week). Screenshots in the folders PS1 to PS6.
+Six programming assignments (one for each week). Code, answers in the folders PA1 to PA6.
+To run, unzip the folder to one location. Use C++ complier to compile and then run the file.
